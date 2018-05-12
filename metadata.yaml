@@ -1,4 +1,8 @@
 _repo: Nursery-Comedies-Twelve-Tiny-Plays-for-Children_47609
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47609-h/images/cover.jpg
 creator:
   author:
     agent_name: Bell, Florence Eveleen Eleanore Olliffe, Lady
@@ -12,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26738
     wikipedia: http://en.wikipedia.org/wiki/Florence_Bell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47609#Nursery-Comedies-Twelve-Tiny-Plays-for-Children
 gutenberg_issued: '2014-12-09'
 gutenberg_type: Text
 identifiers:
